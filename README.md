@@ -7,13 +7,13 @@ Projeto realizado ao longo do curso HTML e CSS: praticando HTML/CSS, ministrado 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  ![68747470733a2f2f696d6775722e636f6d2f6e4b5566374d4b2e706e67](https://user-images.githubusercontent.com/116316476/211823975-a7f8c046-119e-4474-9c44-018f775d8637.png)
+  <img src='https://user-images.githubusercontent.com/116316476/211823975-a7f8c046-119e-4474-9c44-018f775d8637.png' alt='screenshot da tela principal do Alura Plus'>
 </p>
 
 ## 🚀 Tecnologias
